@@ -27,7 +27,7 @@
     "New Subscription": "Neues Subscription",
     "You have selected 0 of 4 flavors": "Du hast 0 von 4 Geschmacksrichtungen ausgewählt",
     "Subscription Preis": "Abonnementpreis",
-    "Billed every 4 Wochen": "Abgerechnet alle 4 Wochen",
+    "Billed every": "Abgerechnet alle",
     "Started on": "Gestartet am",
     "Selected flavors": "Ausgewählte Geschmacksrichtungen",
     "flavors": "Geschmacksrichtungen",
